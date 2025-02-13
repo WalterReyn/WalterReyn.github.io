@@ -54,10 +54,10 @@
 })();
 */
 const messages = [
-    "¿Estás seguro?",
-"¿Realmente seguro?",
-"¿Estás seguro?",
-"Pookie, por favor...",
+    "¿Estás segura?",
+"¿Realmente segura?",
+"¿Estás segura?",
+"Pipuuuuu, por favor...",
 "¡Piénsalo!",
 "Si dices que no, me pondré muy triste...",
 "Me pondré muy triste...",
